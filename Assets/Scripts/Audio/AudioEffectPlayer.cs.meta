@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4a0ccc8475defbd4fae7153b3f47b706
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioEffectSpawner: {fileID: 11400000, guid: 028026152e57fbc40ac1cbf239f48550, type: 2}
+  - clip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
